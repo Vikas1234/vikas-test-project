@@ -4,3 +4,7 @@
 4)git add *
 5)git commmit -m "first commit"
 6)git push -u origin master
+7)Modify this file
+8)use git add dev/dev.txt
+9)git commit -m "second commit"
+10)step 6
