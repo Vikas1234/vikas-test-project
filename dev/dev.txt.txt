@@ -1,0 +1,6 @@
+1)Created folder 
+2)use git bash 
+3)git init
+4)git add *
+5)git commmit -m "first commit"
+6)git push -u origin master
